@@ -20,26 +20,26 @@
 
 ---
 
-## 📝 Tentang Saya
+## 📝 About Me
 
-Saya seorang **pengembang full-stack yang bersemangat**, selalu tertantang untuk menciptakan solusi digital yang inovatif. Dengan hasrat mendalam terhadap dunia pemrograman, saya terus belajar dan mengeksplorasi teknologi terbaru untuk membangun aplikasi yang lebih baik.
+I'm a **passionate full-stack developer** who loves creating innovative digital solutions. With a deep passion for programming, I'm constantly learning and exploring the latest tech to build better applications.
 
-Saat ini, saya fokus pada:
-- 💻 Pengembangan aplikasi web modern menggunakan **Nuxt**
-- 📱 Membangun aplikasi mobile dengan **Nuxt + Capacitor**
-- 🗄️ Merancang database yang efisien dan scalable
-- 🤖 Eksplorasi teknologi AI dan aplikasinya
-- 🎤 Berbagi pengetahuan melalui presentasi dan workshop
+Currently, I'm focused on:
+- 💻 Building modern web apps with **Nuxt**
+- 📱 Creating mobile applications using **Nuxt + Capacitor**
+- 🗄️ Designing efficient and scalable databases
+- 🤖 Exploring AI technologies and their applications
+- 🎤 Sharing knowledge through presentations and workshops
 
-Saya juga seorang **Junior Android Developer** menggunakan **Nuxt + Capacitor**.
-Saya mampu bekerja dalam ekosistem **Linux**.
-Saya memiliki semangat belajar yang tinggi untuk terus berkembang dan beradaptasi dengan teknologi baru.
+I'm also a **Junior Android Developer** specializing in **Nuxt + Capacitor**.
+I'm comfortable working in the **Linux** ecosystem.
+I have a strong learning mindset, always eager to grow and adapt to new technologies.
 
 ---
 
-## 🎯 Proyek & Portofolio
+## 🎯 Projects & Portfolio
 
-Jelajahi semua proyek saya dan lihat karya-karya terbaru saya:
+Check out all my projects and latest work:
 
 [![Portfolio Badge](https://img.shields.io/badge/🌐%20Portfolio-kairav--portfolio-blue?style=for-the-badge)](https://kairav-portfolio.vercel.app)
 
@@ -72,9 +72,9 @@ Jelajahi semua proyek saya dan lihat karya-karya terbaru saya:
 
 ---
 
-## 📧 Hubungi Saya
+## 📧 Let's Connect
 
-Silakan hubungi saya melalui email atau media sosial. Saya selalu terbuka untuk diskusi, kolaborasi, dan peluang baru!
+Feel free to reach out via email or social media. I'm always open to discussions, collaborations, and new opportunities!
 
 [![Email](https://img.shields.io/badge/Email-ilhamkurniawanjateng%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilhamkurniawanjateng@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilhamkurniawan)
@@ -82,9 +82,9 @@ Silakan hubungi saya melalui email atau media sosial. Saya selalu terbuka untuk 
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhamkrnwan__)
 ---
 
-## 📄 Pengalaman & CV
+## 📄 Experience & Resume
 
-Pelajari lebih lanjut tentang pengalaman, skill, dan pencapaian saya:
+Learn more about my experience, skills, and achievements:
 
 [![Download CV](https://img.shields.io/badge/📥%20Download%20CV-Google%20Drive-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link)
 
@@ -92,8 +92,8 @@ Pelajari lebih lanjut tentang pengalaman, skill, dan pencapaian saya:
 
 <div align="center">
 
-## ❤️ Terima kasih telah mengunjungi profile saya! 🚀
+## ❤️ Thanks for stopping by! 🚀
 
-**Jangan ragu untuk fork, star ⭐, atau memberikan feedback!**
+**Feel free to fork, star ⭐, or drop some feedback!**
 
 </div>
