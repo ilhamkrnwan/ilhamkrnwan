@@ -13,6 +13,7 @@ I bridge the gap between complex systems and seamless digital experiences — te
 - Currently building web apps with **Nuxt.js** and mobile apps via **Nuxt + Capacitor**
 - Interning as **Junior Developer at Sekeco** (Jan 2025 – Present)
 - Working as **Fullstack Web & Android Developer at Jurutani** (2025 – Present)
+- Familiar with AI-assisted development workflows — vibe coding, GitHub Copilot, Antigravity, and MCP integration
 - Open to full-time roles and project-based collaborations
 
 ---
@@ -37,12 +38,18 @@ I bridge the gap between complex systems and seamless digital experiences — te
 **Blockchain**
 `Solidity` `Ethers.js`
 
+**AI & Vibe Coding**
+`GitHub Copilot` `Antigravity` `MCP (Model Context Protocol)`
+
 ---
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamkrnwan&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamkrnwan&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ilhamkrnwan&theme=radical)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamkrnwan&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhamkrnwan&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
