@@ -2,17 +2,18 @@
 
 **Fullstack Developer**
 
-I build web and mobile applications with a focus on clean implementation, practical problem-solving, and user-centered product delivery. I am currently pursuing a Bachelor's degree in Informatics at **Universitas Nahdlatul Ulama Yogyakarta** while gaining hands-on industry experience through internship and freelance work.
+I build web and mobile applications with a focus on clean implementation, practical problem-solving, and user-centered product delivery. With **3+ years of experience** and **50+ completed projects**, I work across agritech, education, community, and e-commerce. I am currently pursuing a Bachelor's degree in Informatics at **Universitas Nahdlatul Ulama Yogyakarta** while gaining hands-on industry experience through internship and freelance work.
 
-I am comfortable working across frontend, backend, mobile, and database layers, and I enjoy turning product requirements into reliable, maintainable software.
+I am comfortable working across frontend, backend, mobile, and database layers, and I enjoy turning product requirements into reliable, maintainable software. I am tool-agnostic, with a growing focus on **Web3** and **AI-assisted development**.
 
 ---
 
 ## Professional Summary
 
-- Fullstack developer with experience building web and Android-based solutions
+- Fullstack developer with 3+ years of experience and 50+ projects across web and Android-based solutions
 - Currently working as **Junior Developer Intern at Sekeco** since **January 2025**
 - Currently working as **Fullstack Web & Android Developer at Jurutani**
+- Experience delivering products for agritech, education, community, and e-commerce sectors
 - Familiar with modern development workflows, version control, and collaborative delivery
 - Open to **full-time opportunities**, **internships**, and **project-based collaborations**
 
@@ -42,16 +43,27 @@ I am comfortable working across frontend, backend, mobile, and database layers, 
 `MySQL` `PostgreSQL` `MongoDB` `Supabase` `Firebase`
 
 **Tools**  
-`Git` `GitHub` `Docker` `Linux`
+`Git` `GitHub` `Docker` `Linux` `WordPress` `VS Code`
 
-**Additional Interests**  
-`Solidity` `Ethers.js` `GitHub Copilot` `MCP`
+**Web3**  
+`Solidity` `Ethers.js`
+
+**AI Tools**  
+`Claude` `Gemini` `ChatGPT` `Qwen` `DeepSeek` `GitHub Copilot` `MCP`
+
+---
+
+## Selected Projects
+
+- **Kairav Studio** — Creative digital studio building modern, SEO-ready websites (`Astro` `Tailwind CSS` `GSAP`)
+- **Jurutani** — All-in-one digital agriculture platform with real-time data and AI insights (`Nuxt.js` `Capacitor` `Tailwind CSS`)
+- **AgriNuclear** — Educational web platform on nuclear agriculture science (`React` `Tailwind CSS`)
 
 ---
 
 ## Portfolio and Contact
 
-- Portfolio: [kairav-portfolio.vercel.app](https://kairav-portfolio.vercel.app)
+- Portfolio: [ilhamkrnwan.my.id](https://ilhamkrnwan.my.id)
 - LinkedIn: [linkedin.com/in/ilhamkurniawan](https://linkedin.com/in/ilhamkurniawan)
 - GitHub: [github.com/ilhamkrnwan](https://github.com/ilhamkrnwan)
 - Email: [ilhamkurniawanjateng@gmail.com](mailto:ilhamkurniawanjateng@gmail.com)
