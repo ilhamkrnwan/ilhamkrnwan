@@ -1,86 +1,83 @@
-# Ilham Kurniawan
+[![Banner](https://raw.githubusercontent.com/ilhamkrnwan/ilhamkrnwan/main/banner.jpg)](https://ilhamkrnwan.my.id)
 
-**Fullstack Developer**
+<div align="center">
 
-I build web and mobile applications with a focus on clean implementation, practical problem-solving, and user-centered product delivery. With **3+ years of experience** and **50+ completed projects**, I work across agritech, education, community, and e-commerce. I am currently pursuing a Bachelor's degree in Informatics at **Universitas Nahdlatul Ulama Yogyakarta** while gaining hands-on industry experience through internship and freelance work.
+[![Portfolio](https://img.shields.io/badge/Portfolio-ilhamkrnwan.my.id-2f80ed?style=flat-square&logo=vercel&logoColor=white)](https://ilhamkrnwan.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilhamkurniawan)
+[![Email](https://img.shields.io/badge/Email-ilhamkurniawanjateng%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ilhamkurniawanjateng@gmail.com)
+[![CV](https://img.shields.io/badge/Resume-Download-4CAF50?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link)
 
-I am comfortable working across frontend, backend, mobile, and database layers, and I enjoy turning product requirements into reliable, maintainable software. I am tool-agnostic, with a growing focus on **Web3** and **AI-assisted development**.
-
----
-
-## Professional Summary
-
-- Fullstack developer with 3+ years of experience and 50+ projects across web and Android-based solutions
-- Currently working as **Junior Developer Intern at Sekeco** since **January 2025**
-- Currently working as **Fullstack Web & Android Developer at Jurutani**
-- Experience delivering products for agritech, education, community, and e-commerce sectors
-- Familiar with modern development workflows, version control, and collaborative delivery
-- Open to **full-time opportunities**, **internships**, and **project-based collaborations**
+</div>
 
 ---
 
-## What I Bring
+Undergraduate student in Informatics at **Universitas Nahdlatul Ulama Yogyakarta**. Building since **2022** — 4+ years, 50+ projects across web, mobile, and infrastructure.
 
-- Ability to work across the full development lifecycle, from interface implementation to backend integration and database design
-- Strong interest in building products that are useful, maintainable, and ready for real users
-- Comfortable adapting to different stacks and project requirements
-- Continuous learner with active interest in web, mobile, and AI-assisted development workflows
+I don't go by a specific role. I take what's in your head and make it into a system that actually runs — architecture, code, server, and the SEO that gets it found.
 
 ---
 
-## Tech Stack
+## Where I work
 
-**Frontend**  
-`Vue.js` `Nuxt.js` `React` `Next.js` `Tailwind CSS` `TypeScript`
+**Full Stack Developer & Server Maintenance** · PT Indotech Berkah Abadi  
+Working across multiple client websites. Deep focus on **SEO**, **GEO** (Generative Engine Optimization), and **AEO** (Answer Engine Optimization). Server maintenance, WordPress, and custom web builds.
 
-**Backend**  
-`Node.js` `Laravel` `CodeIgniter` `Flask` `Django` `Express`
+**Frontend Developer** · Sekeco  
+Part of the Sekeco team. Working on frontend while studying infrastructure, clean code fundamentals, system feature scoping, and application security — the foundation that keeps a codebase alive.
 
-**Mobile**  
-`Flutter` `Kotlin` `Capacitor`
-
-**Database**  
-`MySQL` `PostgreSQL` `MongoDB` `Supabase` `Firebase`
-
-**Tools**  
-`Git` `GitHub` `Docker` `Linux` `WordPress` `VS Code`
-
-**Web3**  
-`Solidity` `Ethers.js`
-
-**AI Tools**  
-`Claude` `Gemini` `ChatGPT` `Qwen` `DeepSeek` `GitHub Copilot` `MCP`
+**Freelance Fullstack & Mobile Developer** · Jurutani  
+End-to-end ownership. From database schema to deployment. Infrastructure, architecture, and the whole product — alone.
 
 ---
 
-## Selected Projects
+## Things I've shipped
 
-- **Kairav Studio** — Creative digital studio building modern, SEO-ready websites (`Astro` `Tailwind CSS` `GSAP`)
-- **Jurutani** — All-in-one digital agriculture platform with real-time data and AI insights (`Nuxt.js` `Capacitor` `Tailwind CSS`)
-- **AgriNuclear** — Educational web platform on nuclear agriculture science (`React` `Tailwind CSS`)
+🌿 **Jurutani** — Digital agriculture platform. Real-time data, AI insights, mobile-first.
 
----
+🎨 **Kairav Studio** — Creative digital studio. Modern, fast, SEO-ready websites.
 
-## Portfolio and Contact
+⚛️ **AgriNuclear** — Educational platform on nuclear agriculture science.
 
-- Portfolio: [ilhamkrnwan.my.id](https://ilhamkrnwan.my.id)
-- LinkedIn: [linkedin.com/in/ilhamkurniawan](https://linkedin.com/in/ilhamkurniawan)
-- GitHub: [github.com/ilhamkrnwan](https://github.com/ilhamkrnwan)
-- Email: [ilhamkurniawanjateng@gmail.com](mailto:ilhamkurniawanjateng@gmail.com)
-- CV: [Download CV](https://drive.google.com/file/d/1573DzRVKJjYU38SiV46fQuuhlCancZB9/view?usp=drive_link)
+*...and 40+ more across agritech, education, e-commerce, and community products.*
 
 ---
 
-## Current Goal
+## Tech I reach for
 
-I am looking for opportunities where I can contribute as a developer, grow through real product challenges, and work with a team that values quality, ownership, and continuous improvement.
+Tool-agnostic. I use what the problem needs.
+
+```
+Web            →  Vue · Nuxt · React · Next · Astro · TypeScript · Tailwind CSS
+Backend        →  Node.js · Express · Laravel · CodeIgniter · Flask · Django
+Mobile         →  Flutter · Kotlin · Capacitor
+Database       →  MySQL · PostgreSQL · MongoDB · Supabase · Firebase
+CMS & SEO      →  WordPress · Technical SEO · Schema Markup · GEO · AEO
+Infrastructure →  Linux · Docker · Nginx · server maintenance
+Web3           →  Solidity · Ethers.js
+AI Tooling     →  Claude · Gemini · Copilot · MCP · Qwen · DeepSeek
+```
 
 ---
 
-## GitHub Overview
+## Open to
 
-These stats provide a quick snapshot of my activity and language usage across GitHub.
+- **Freelance projects** — web, mobile, or end-to-end system builds
+- **Consulting** — SEO/GEO/AEO, or architecture review for existing systems
+- **Collaborations** — if you have an idea and need someone to make it real, let's talk
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhamkrnwan&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=4f4f4f&icon_color=2f80ed)](https://github.com/ilhamkrnwan)
+---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamkrnwan&layout=compact&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=4f4f4f)](https://github.com/ilhamkrnwan)
+## GitHub Activity
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhamkrnwan&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555&icon_color=2f80ed&include_all_commits=true&count_private=true)](https://github.com/ilhamkrnwan)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamkrnwan&layout=compact&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555&langs_count=8)](https://github.com/ilhamkrnwan)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ilhamkrnwan&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed)](https://github.com/ilhamkrnwan)
+
+</div>
+
+---
+
+<div align="center"><sub>Tell me what system you're trying to build. → <a href="mailto:ilhamkurniawanjateng@gmail.com">ilhamkurniawanjateng@gmail.com</a></sub></div>
