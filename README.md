@@ -9,7 +9,10 @@
 
 </div>
 
+<div align="center"><sub>📍 Kedungtuban, Blora, Jawa Tengah &nbsp;·&nbsp; Gamping, Sleman, D.I. Yogyakarta</sub></div>
+
 ---
+
 
 Undergraduate student in Informatics at **Universitas Nahdlatul Ulama Yogyakarta**. Building since **2022** — 4+ years, 50+ projects across web, mobile, and infrastructure.
 
