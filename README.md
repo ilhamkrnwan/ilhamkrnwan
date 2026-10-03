@@ -26,7 +26,7 @@ Working across multiple client websites. Deep focus on **SEO**, **GEO** (Generat
 Part of the Sekeco team. Working on frontend while studying infrastructure, clean code fundamentals, system feature scoping, and application security — the foundation that keeps a codebase alive.
 
 **Freelance Fullstack & Mobile Developer** · Jurutani  
-End-to-end ownership. From database schema to deployment. Infrastructure, architecture, and the whole product — alone.
+Contributing across the full stack — from database schema to deployment. Involved in infrastructure decisions, architecture, and ongoing product development.
 
 ---
 
