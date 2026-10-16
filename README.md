@@ -22,7 +22,7 @@ I don't go by a specific role. I take what's in your head and make it into a sys
 
 ## Where I work
 
-**Full Stack Developer & Server Maintenance** · PT Indotech Berkah Abadi  
+**IT Staff** · PT Indotech Berkah Abadi  
 Working across multiple client websites. Deep focus on **SEO**, **GEO** (Generative Engine Optimization), and **AEO** (Answer Engine Optimization). Server maintenance, WordPress, and custom web builds.
 
 **Frontend Developer** · Sekeco  
